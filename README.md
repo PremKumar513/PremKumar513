@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript Frameworks and DevOps Tools
 - 💞️ I’m looking to collaborate on JavaScript & DevOps
-- 📫 How to reach me premkumar513@gmail.com
+- 📫 How to reach me premkumarofficial513@gmail.com
 - 😄 Pronouns: Prem
 - ⚡ Fun fact: ...
 
